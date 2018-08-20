@@ -1,0 +1,44 @@
+.ListingView {
+    height: 100%;
+}
+
+.AllMiniListings {
+    margin: auto;
+    width: 100%;
+    height: 100%;
+}
+
+.OuterContainerListings {
+    text-align: center;
+    height: 100%;
+}
+
+
+.ViewTypeLabel {
+    font-weight: bold;
+
+}
+
+.ViewTypeButton {
+    margin-left: 1%;
+    margin-bottom: 3%;
+}
+
+.MiniListing.One {
+    height: 80%;
+    width: 100%;
+}
+
+.MiniListing.Two {
+    float: left;
+    margin-left: 3%;
+    height: 80%;
+    width: 30%;
+}
+
+.MiniListing.Three {
+   float: left;
+   width: 20%;
+   margin-left: 3%;
+   height: 40%;
+}

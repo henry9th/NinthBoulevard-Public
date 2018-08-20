@@ -1,0 +1,113 @@
+#ProductListDiv {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#LeftProductListing {
+  display: inline-block;
+  margin-top: 2%;
+  margin-left: 17%;
+  width: 25%;
+  height: 80%;
+  vertical-align: top;
+}
+
+#RightProductListing {
+    margin-left: 8%;
+    display: inline-block;
+    margin-top: 1%;
+    margin-right: 3%;
+    vertical-align: top;
+    width: 40%;
+}
+
+#PieceName {
+    font-weight: bold;
+    font-size: 5vh;
+    margin-bottom: 5%;
+}
+
+#BrandName {
+    font-size: 3vh;
+}
+/*
+#MiscInfo {
+    margin-top: 0.5%;
+} */
+
+#SizeLabel {
+  margin-left: 3%;
+  font-size: 125%;
+}
+
+#ConditionLabel {
+  margin-left: 3%;
+  font-size: 125%;
+}
+
+#PriceLabel {
+  margin-left: 3%;
+  font-size: 125%;
+}
+
+#Description {
+  margin-top: 3%;
+
+}
+
+#DescriptionLabel {
+  display: inline-block;
+  font-weight: bold;
+  margin-top: 2%;
+  font-size: 120%;
+}
+
+#DescriptionText {
+  display: inline-block;
+  margin-top: 2%;
+  font-size: 120%;
+}
+
+#PurchaseButton, .WatchingButton, #MessageButton {
+    font-size: 125%;
+    width: 80%;
+    padding: 2%;
+    background-color: transparent;
+    border: 1px solid;
+}
+
+#PurchaseButton:hover, .WatchingButton:hover, #MessageButton:hover {
+    font-weight: bold;
+}
+
+.WatchingButton {
+    margin-top: 8%;
+}
+
+#MessageButton {
+    margin-top: 2%;
+}
+
+#PurchaseButton {
+    margin-top: 2%;
+}
+
+#SellerInfo {
+    margin-top: 10%;
+}
+
+#StoreProfImg {
+    border-radius: 50%;
+
+}
+
+#SellerName {
+    margin-left: 3%;
+    font-weight: bold;
+}
+
+#LocationTag {
+    margin-left: 0.5%;
+
+}

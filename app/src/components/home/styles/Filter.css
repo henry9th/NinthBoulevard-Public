@@ -1,0 +1,88 @@
+.Category {
+  width: 100%;
+}
+
+.CategoryOptionsList {
+    overflow: scroll;
+    display: inline-block;
+    width: 100%;
+}
+
+.SearchLabel {
+    font-weight: bold;
+}
+
+.Search {
+    margin-bottom: 10%;
+}
+
+.TextSearchInput {
+    width: 100%;
+
+}
+
+.SearchCategory {
+    font-weight: bold;
+}
+
+.Size {
+  margin-top: 10%;
+}
+
+.SizeLabel {
+  font-weight: bold;
+}
+
+.Condition {
+  margin-top: 10%;
+}
+
+.ConditionLabel {
+  font-weight: bold;
+}
+
+.Color {
+  margin-top: 10%;
+}
+
+.ColorLabel {
+  font-weight: bold;
+}
+
+.Price {
+  margin-top: 10%;
+}
+
+
+.PriceLabel {
+  font-weight: bold;
+}
+
+.Location {
+  margin-top: 10%;
+}
+
+.LocationLabel {
+  font-weight: bold;
+}
+
+
+.Checkbox.Color {
+  margin-left: 5%;
+}
+
+.Checkbox.Location {
+  margin-left: 5%;
+}
+
+.Checkbox.Condition {
+  margin-left: 5%;
+}
+
+.SubmitSearchButton {
+  width: 100%;
+}
+
+.ResetSearchButton {
+  width: 100%;
+}

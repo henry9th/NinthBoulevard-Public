@@ -1,0 +1,19 @@
+.HomeDiv {
+    margin: 0% 3% 3% 3%;
+
+}
+
+.FilterDiv {
+    float: left;
+    height: 100vh;
+    width: 15%
+}
+
+
+.ListingViewDiv {
+    width: 76%;
+    height: 100vh;
+    float: center;
+    margin-left: 3%;
+    display: inline-block;
+}

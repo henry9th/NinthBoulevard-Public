@@ -1,0 +1,32 @@
+a { 
+    box-shadow: 0;
+
+}
+
+.NavigationItem { 
+    box-shadow: 0;
+    border: none;
+}
+
+.NavigationButton {
+    background-color: transparent; 
+    border: none;
+    background: none;
+    text-align: center;
+    margin: auto;
+    font-size: 14px;
+    padding: 0;
+    color: gray;
+    outline: none;
+}
+
+.NavigationButton:focus { 
+    text-decoration: none; 
+    color: black;
+}
+
+.NavigationButton:hover { 
+    color: black; 
+    text-decoration: none;
+}
+

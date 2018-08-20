@@ -1,0 +1,21 @@
+
+#ImageCarouselDiv {
+  width: 100%;
+}
+
+#CarouselImageDiv {
+
+}
+
+#ImageCarousel {
+
+
+}
+
+#CarouselImage {
+  max-width: 100%;
+  max-height: 100%;
+  height:auto;
+  width: auto;
+  margin: auto;
+}

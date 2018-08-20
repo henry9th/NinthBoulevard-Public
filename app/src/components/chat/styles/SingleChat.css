@@ -1,0 +1,51 @@
+.chat{
+    height: 80vh;
+}
+.left {
+  background-color: silver;
+  position: relative;
+  padding: 5px 13px;
+  font-size: 14px;
+  border-radius: 10px;
+  list-style: none;
+  float: left;
+  clear: both;
+  margin: 10px 0;
+max-width: 200px;
+}
+.help {
+    color: red;
+}
+.header {
+    height: 10%;
+}
+.messageSubmit{ 
+    width: 97%;
+    height: 20%;
+}   
+.messages {
+    width: 97%;
+    height: 50%;
+    overflow-y: scroll;
+    margin-bottom: 5px;
+}
+.messageSend {
+    float: right;
+    width: 20%;
+}
+.messageHolder {
+    float: left;
+    width: 75%;
+}
+.right {
+  background-color: aqua;
+  position: relative;
+  padding: 5px 13px;
+  font-size: 14px;
+  border-radius: 10px;
+  list-style: none;
+  float: right;
+  clear: both;
+  margin: 10px 0;
+max-width: 200px;
+}

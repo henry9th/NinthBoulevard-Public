@@ -1,0 +1,12 @@
+[Wed Jun 13 00:08:19.637443 2018] [mpm_prefork:notice] [pid 1050] AH00163: Apache/2.4.27 (Ubuntu) configured -- resuming normal operations
+[Wed Jun 13 00:08:19.637464 2018] [core:notice] [pid 1050] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 13 11:12:10.789863 2018] [:error] [pid 7200] [client 172.16.11.156:53539] UploadToServer.php called
+[Wed Jun 13 11:12:10.791158 2018] [:error] [pid 7200] [client 172.16.11.156:53539] storeRecords
+[Wed Jun 13 11:15:33.967304 2018] [:error] [pid 7203] [client 172.16.11.156:53583] storeBaselinRecords
+[Wed Jun 13 11:15:33.967358 2018] [:error] [pid 7203] [client 172.16.11.156:53583] null null null null null null null null null null
+[Wed Jun 13 11:19:59.246628 2018] [:error] [pid 12364] [client 172.16.11.156:53664] storeBaselinRecords
+[Wed Jun 13 11:19:59.246667 2018] [:error] [pid 12364] [client 172.16.11.156:53664] 33330 -1 20180613_111936 1 0 0 00:14 dingwenli@wustl.edu 0 3333
+[Wed Jun 13 11:24:36.475232 2018] [:error] [pid 12364] [client 172.16.11.156:54100] storeBaselinRecords
+[Wed Jun 13 11:24:36.475260 2018] [:error] [pid 12364] [client 172.16.11.156:54100] 33330 -1 20180613_112112 1 0 0 00:12 dingwenli@wustl.edu 0 3333
+[Wed Jun 13 11:25:24.465136 2018] [:error] [pid 12364] [client 172.16.11.156:54115] UploadToServer.php called
+[Wed Jun 13 11:25:24.466028 2018] [:error] [pid 12364] [client 172.16.11.156:54115] storeRecords

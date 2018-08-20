@@ -1,0 +1,28 @@
+djsaklfj
+post() {
+    var data = {
+      email : 'hi@hi.com',
+      password : 'hihi',
+    }
+    fetch('http://ec2-52-90-88-227.compute-1.amazonaws.com:3001/login', {
+        credentials : 'include',
+        headers: {
+            'Content-Type': 'application/json',
+            'Access-Control-Allow-Origin': 'http://ec2-52-90-88-227.compute-1.amazonaws.com:3001',
+            'Access-Control-Allow-Headers': 'Content-Type'
+        },
+        method: 'POST',
+        body: JSON.stringify(data)
+    }).then((res) => res.text().then(response => alert(response)))
+    .catch((err)=>alert(err))
+}
+get() {
+ 	fetch('http://ec2-52-90-88-227.compute-1.amazonaws.com:3001/profile', {
+        credentials: 'include',
+        headers: {
+            'Access-Control-Allow-Origin': 'http://ec2-52-90-88-227.compute-1.amazonaws.com:3001/profile',
+        },
+        method: 'GET',
+    }).then((res) => res.text().then(response => alert(response)))
+            .catch((err)=>alert(err))
+}

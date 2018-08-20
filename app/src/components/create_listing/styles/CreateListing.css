@@ -1,0 +1,121 @@
+
+#CreateListing {
+    margin: 2% 3% 3% 3%;
+}
+
+
+#CreateListingDiv {
+    width: 94%;
+}
+
+.CreateListingTitle {
+    text-align: center;
+}
+
+#PieceNameDiv {
+    display: inline;
+}
+
+#PieceNameInput{
+    margin-left: 2%;
+    width: 40%;
+}
+
+#BrandDiv {
+    margin-left: 3%;
+    display: inline;
+}
+
+#BrandInput {
+    margin-left: 2%;
+}
+
+#SizeDiv {
+    display: inline;
+    margin-left: 3%;
+}
+
+#SizeSelect {
+    margin-left: 2%;
+
+}
+
+#DescriptionDiv {
+
+}
+
+#DescriptionTextArea {
+    width: 70%;
+    height: 20vh;
+}
+
+#PriceDiv {
+    display: inline;
+}
+
+#PriceInput {
+    margin-left: 1%;
+}
+
+#TypeDiv {
+    display: inline;
+    margin-left:3%;
+}
+
+#TypeInput {
+    margin-left: 1%;
+}
+
+#ConditionDiv {
+    display: inline;
+    margin-left: 3%;
+}
+
+#ConditionSelect {
+    margin-left:1%;
+}
+
+#ColorDiv {
+    display: inline;
+    margin-left:3%;
+}
+
+.form-control.Color {
+    display: inline-block;
+    margin-left:1%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+
+.LocationDiv {
+    display: inline-block;
+    margin-top:3%;
+    margin-bottom: 3%;
+}
+
+.form-control.Location {
+    margin-left:1%;
+
+}
+
+.ImageUploadSortable {
+      margin-top:3%;
+    margin-left:20%;
+    display: inline-block;
+}
+
+.CreateButtonDiv {
+    margin-top: 3%;
+    height: 10vh;
+}
+
+.CreateButton {
+    margin-top:3%;
+    text-align:center;
+    margin: 0 auto;
+    display: block;
+    width: 50%;
+    height: 100%;
+    background-color: transparent;
+}

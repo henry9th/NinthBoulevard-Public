@@ -1,0 +1,31 @@
+#NewPostDiv {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+#PostTitleText {
+  display: inline;
+}
+
+#CategoryText {
+  margin-left: 2%;
+  font-size: 150%;
+}
+
+#TitleInput {
+  margin-top: 2%;
+}
+
+#CategorySelect {
+  margin-top: 1%;
+  display: block;
+}
+
+.CategoryOptions {
+
+}
+
+#PostTextArea {
+  resize: none;
+
+}
